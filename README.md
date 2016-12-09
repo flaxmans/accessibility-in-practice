@@ -21,7 +21,8 @@ The ideas of Universal Design, common accessibility problems with PowerPoint, an
 3. Copy and paste the following to the command line in Terminal and press enter/return:  
 ```
 open ~/Library/Application\ Support/Microsoft/Office/User\ Templates/My\ Templates/
-``` <br>
+``` 
+<br>
 4. That should open a finder window where you can drag-and-drop the template file from any other location (where you downloaded it the first place, above)
 
 ###### If anyone knows how to find "My Templates" on a Windows machine, please let me know!
