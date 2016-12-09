@@ -16,7 +16,7 @@ The ideas of Universal Design, common accessibility problems with PowerPoint, an
 <hr>
 
 #### Optional info: Finding the "My Templates" folder on a Mac:
-1. In a Finder window, navigate to Application > Utilities
+1. In a Finder window, navigate to Applications > Utilities
 2. Double-click on "Terminal.app"
 3. Copy and paste the following to the command line in Terminal and press enter/return:  
 ```
