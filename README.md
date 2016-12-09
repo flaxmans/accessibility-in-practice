@@ -12,7 +12,8 @@ The ideas of Universal Design, common accessibility problems with PowerPoint, an
 5. Save it to the "My Templates" folder.  This should be the default location to save it.  If, for some reason, that is not the default folder, see below (this is kind of a pain because the folder is "hidden" on most systems that I know of).
 6. You can quit PowerPoint now.  
 7. Any time you create a new Presentation, you can start PowerPoint normally, and once it starts, choose "New from Template" in the File menu.  The template you saved to "My Templates" should be visible in the dialogue windows that follow.
-____
+
+<hr>
 
 #### Optional info: Finding the "My Templates" folder on a Mac:
 1. In a Finder window, navigate to Application > Utilities
